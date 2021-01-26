@@ -1,7 +1,7 @@
 <h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hi there!</h1>
 
 
-<p>Welcome! </br> I'm Sergey, Frontend developer from <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/Flag_of_Kazakhstan.svg/1280px-Flag_of_Kazakhstan.svg.png" width="20"/> <b>Aktau, Kazakhstan</b>.</p>
+<p>Welcome! </br> I'm Sergey, Frontend developer from <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/Flag_of_Kazakhstan.svg/1280px-Flag_of_Kazakhstan.svg.png" width="30"/> <b>Aktau, Kazakhstan</b>.</p>
 <h3>Things I know</h3>
 <p>
   <img alt="HTML5" src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
