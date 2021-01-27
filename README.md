@@ -30,4 +30,4 @@
   <img alt="Angular" src="https://img.shields.io/badge/-Angular-DD0031?style=flat-square&logo=angular&logoColor=white" />
 </p>
 
-<h4>More information about you can find on my portfolio website by following <a href="#">link</a></h4>
+<h4>More information about you can find on my portfolio website by following <a href="https://seygorin.github.io/">link</a></h4>
