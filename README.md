@@ -32,4 +32,4 @@
   <img alt="Angular" src="https://img.shields.io/badge/-Angular-DD0031?style=flat-square&logo=angular&logoColor=white" />
 </p>
 
-<h4>More information about you can find on my portfolio website by following <a href="https://seygorin.github.io/">link</a> or at my <a href="https://rolling-scopes-school.github.io/seygorin-JSFE2023Q1/self-introduction/">biopage</a>, or at <a href="https://cv-app-seygorin-epam-campus.vercel.app/">CV-app</a>.</h4>
+<h4>More information about you can find on my portfolio website by following <a href="https://seygorin.github.io/">link</a> or at my <a href="https://rolling-scopes-school.github.io/seygorin-JSFE2023Q1/self-introduction/">biopage</a>, or at <a href="https://cv-app-seygorin.vercel.app/">CV-app</a>.</h4>
