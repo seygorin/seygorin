@@ -22,6 +22,7 @@
 <h3>And familiar with</h3>
 <p>
   <img alt="Nodejs" src="https://img.shields.io/badge/-Nodejs-43853d?style=flat-square&logo=Node.js&logoColor=white" />
+  <img alt="MongoDB" src="https://img.shields.io/badge/-MongoDB-000000?style=flat-square&logo=mongodb&logoColor=green" />
   <img alt="Yarn" src="https://img.shields.io/badge/-Yarn-2C8EBB?style=flat-square&logo=yarn&logoColor=white" />
   <img alt="Less" src="https://img.shields.io/badge/-Less-1D365D?style=flat-square&logo=Less&logoColor=white" />
   <img alt="Styled Components" src="https://img.shields.io/badge/-Styled_Components-db7092?style=flat-square&logo=styled-components&logoColor=white" />
