@@ -26,6 +26,9 @@
       <img alt="Vue" src="https://img.shields.io/badge/-Vue-4FC08D?style=flat-square&logo=vuedotjs&logoColor=white" />
       <img alt="Nuxt.js" src="https://img.shields.io/badge/-Nuxt.js-00DC82?style=flat-square&logo=nuxtdotjs&logoColor=white" />
       <img alt="Pinia" src="https://img.shields.io/badge/-Pinia-FFD43B?style=flat-square&logo=pinia&logoColor=white" />
+      <img alt="Angular" src="https://img.shields.io/badge/-Angular (v. 16+)-DD0031?style=flat-square&logo=angular&logoColor=white" />
+      <img alt="RxJS" src="https://img.shields.io/badge/-RxJS-B7178C?style=flat-square&logo=reactivex&logoColor=white" />
+      <img alt="NgRx" src="https://img.shields.io/badge/-NgRx-BA2BD2?style=flat-square&logo=ngrx&logoColor=white" />
     </td>
     <td>
       <img alt="Node.js" src="https://img.shields.io/badge/-Node.js-43853d?style=flat-square&logo=node.js&logoColor=white" />
@@ -68,4 +71,3 @@
 </p>
 
   <h4>🔗 More information about me can be found on my portfolio website by following <a href="https://seygorin.github.io/">this link</a>, or check my <a href="https://rolling-scopes-school.github.io/seygorin-JSFE2023Q1/self-introduction/">biopage</a> and <a href="https://cv-app-seygorin.vercel.app/">CV-app</a>.</h4>
-
